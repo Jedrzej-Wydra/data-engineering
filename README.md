@@ -10,4 +10,4 @@ But as with any good forensic drama, there were some plot twists. After some bac
 So, in short, my job was to turn a bunch of photos into neat tables of numbers. And guess what? I did it.
 
 ## Disclaimer
-Unfortunately, I can’t share all of the data used in this project, but I’m providing a small sample of the files I received. As for the R scripts, you might notice that some of the file path structures look a bit unusual — this is due to the internal data management policies we had to follow during the project.
+Unfortunately, I can’t share all of the data used in this project, but I’m providing a small sample of the files I received. As for the R scripts, you might notice that some of the file path structures look a bit unusual — this is due to the internal data management policies we had to follow during the project and anonymization.
