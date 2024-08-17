@@ -1,0 +1,3 @@
+nohup Rscript --vanilla --verbose lots_of_convertion_3_EVIII_Blok_9.R &> nohup_1.out &
+nohup Rscript --vanilla --verbose lots_of_convertion_3_EVIII_Blok_10.R &> nohup_2.out &
+nohup Rscript --vanilla --verbose lots_of_convertion_3_EIII_B10.R &> nohup_3.out 
