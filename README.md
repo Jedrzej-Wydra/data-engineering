@@ -11,3 +11,6 @@ So, in short, my job was to turn a bunch of photos into neat tables of numbers. 
 
 ## Disclaimer
 Unfortunately, I can’t share all of the data used in this project, but I’m providing a small sample of the files I received. As for the R scripts, you might notice that some of the file path structures look a bit unusual — this is due to the internal data management policies we had to follow during the project and anonymization.
+
+## Funding
+Completed as part of the project "Thermogenesis, feeding matrix and parental care in carrion beetle Necrodes littoralis L. (Silphidae): spatiotemporal patterns, determinants, mechanisms and fitness effects of heat production in the matrix", funded by the National Science Centre of Poland, where I contributed as a project team member. 
