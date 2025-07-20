@@ -2,6 +2,12 @@
 
 #### authors: Jędrzej Wydra
 
+## Short summary
+Built an automated R pipeline for preprocessing thermovision photos, extracting pixel-based temperature data, resizing matrices, and aggregating results into structured CSV/Excel outputs for further analysis.
+
+## Technical summary
+Developed a reproducible workflow in R (tidyverse, readxl, png, ggplot2, plotly) to process large sets of thermal images, map color gradients to temperature scales, and generate normalized matrices. Implemented batch conversion, outlier trimming, spatial downscaling, and interactive Shiny-based selection to calculate mean temperatures in marked areas. Final outputs were combined with metadata and exported as structured tables for downstream statistical modeling.
+
 ## History
 This project is actually a subproject of a larger study, which you can find here. The main researchers were conducting experiments on the heat generation of larvae on corpses—yes, you read that right, larvae on corpses. This fascinating work produced hundreds of thermovision photos. My task? Well, it sounded simple enough at first: extract the average temperature of the “meat” from each image.
 
